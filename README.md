@@ -1,0 +1,1 @@
+This is an html and CSS review project: displaying recipes with basic html elements and CSS styles.
